@@ -1,16 +1,13 @@
-# Camera techniques
+# Camera technique templates
 
-This folder documents lens choices, camera movements, framing, and cinematography language for AI-generated stills and video.
+Reusable prompt patterns for composition, lens language, and controlled camera motion. Lens descriptions are stylistic guidance; generated results may not correspond to exact physical optics.
 
-## Example categories
+## Templates
 
-- lens and focal length
-- framing and composition
-- camera movement
-- depth and focus
-- lighting interactions
+1. [Establishing-frame composition](establishing-frame.md) — show place and subject hierarchy
+2. [Controlled push-in](controlled-push-in.md) — build emphasis with a slow move
+3. [Focus transition](focus-transition.md) — shift attention between foreground and background
 
-## Included resources
+## Tip
 
-- [Lens and framing guide](lens-and-framing.md)
-- [Motion and dolly technique notes](motion-and-dolly.md)
+Specify one primary camera move, the start and end framing, and what remains fixed. Avoid stacking several movements in a short clip.

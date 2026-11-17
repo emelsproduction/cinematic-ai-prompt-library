@@ -1,25 +1,21 @@
 # Contribution guide
 
-## How to add content
+## Add a prompt
 
-1. Pick the correct folder:
-   - images in `image-prompts/`
-   - video in `video-prompts/`
-   - consistency in `character-consistency/`
-   - cinematography notes in `camera-techniques/`
-   - structure and templates in `documentation/`
-2. Use a descriptive filename.
-3. Include tags or category labels in the file.
-4. Add a short note on what works and where the prompt is useful.
-5. Keep examples consistent and readable.
+1. Choose the most relevant folder: `image-prompts/`, `video-prompts/`, `character-consistency/`, or `camera-techniques/`.
+2. Use a descriptive lowercase, hyphenated filename.
+3. Start from [the prompt template](prompt-template.md) and link the new file from its section index.
+4. Include adaptable fields, intended output, and a practical review checklist.
+5. Record the model/tool and settings if known; do not claim a prompt is tested unless it has actually been run and the test details are documented.
+6. Check for accidental private data, unlicensed assets, broken links, and misleading guarantees.
 
-## Suggested file naming
+## Test and report results
 
-- `hero-portrait.md`
-- `slow-burn-opening.md`
-- `character-sheet-template.md`
-- `lens-and-framing.md`
+Follow [the validation notes](validation-notes.md). Results are model- and version-dependent; report limitations alongside successes.
 
-## Good practice
+## File naming examples
 
-Use short, useful notes. The library should be easy to browse quickly while still being rich enough for practical reuse.
+- `rain-soaked-arrival.md`
+- `coastal-road-tracking-shot.md`
+- `identity-anchor-sheet.md`
+- `controlled-push-in.md`

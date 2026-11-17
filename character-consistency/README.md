@@ -1,25 +1,13 @@
-# Character consistency
+# Character consistency resources
 
-This section is for prompt systems, reference sheets, workflows, and templates that maintain character identity across image and video generations.
+Practical templates for documenting a character and translating approved identity details into repeatable prompt anchors. Consistency depends on the generation tool and reference workflow; these prompts are starting points, not guarantees.
 
-## Goals
+## Templates
 
-- keep face, hairstyle, wardrobe, and silhouettes consistent
-- define reference details clearly
-- reduce drift over multiple generations
-- reuse a core identity with variations in lighting and camera
+1. [Identity anchor sheet](identity-anchor-sheet.md) — reusable character specification
+2. [Reference portrait variations](reference-portrait-variations.md) — vary scene while holding identity
+3. [Wardrobe continuity sequence](wardrobe-continuity-sequence.md) — preserve costume across shots
 
-## Recommended content
+## Workflow
 
-- character summary
-- appearance anchors
-- wardrobe notes
-- signature props or accessories
-- facial structure notes
-- lighting and environment preferences
-- reference image links or screenshots
-
-## Included resources
-
-- [Character sheet template](character-sheet-template.md)
-- [Hero character workflow](consistent-hero-workflow.md)
+Choose one approved reference, record stable identity traits, and vary only the scene-specific fields. Keep model, reference strength, aspect ratio, and other settings recorded where the tool exposes them.
