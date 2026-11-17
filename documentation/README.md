@@ -1,14 +1,16 @@
 # Documentation
 
-Project guides, conventions, and reference material belong here.
+This folder collects the standards, taxonomy, and reusable templates for the library.
 
-## Suggested prompt details
+## Included guides
 
-For reusable examples, include as many of these details as practical:
+- [Prompt template](prompt-template.md)
+- [Contribution guide](contribution-guide.md)
+- [Taxonomy and tags](taxonomy.md)
 
-- Intended output and use case
-- Prompt text and any negative prompt
-- Model or generation tool and version
-- Relevant settings, such as aspect ratio, duration, or seed
-- Reference assets, if applicable
-- Notes on results, limitations, and useful variations
+## Core principles
+
+- be clear and organized
+- prefer descriptive filenames
+- document model/tool usage where relevant
+- note what worked and what did not

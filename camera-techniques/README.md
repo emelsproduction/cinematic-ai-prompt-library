@@ -1,5 +1,16 @@
-# Camera Techniques
+# Camera techniques
 
-A home for camera and cinematography techniques that can guide AI-generated images and video.
+This folder documents lens choices, camera movements, framing, and cinematography language for AI-generated stills and video.
 
-Organize material around useful concepts such as framing, lens choices, camera movement, focus, and lighting interactions.
+## Example categories
+
+- lens and focal length
+- framing and composition
+- camera movement
+- depth and focus
+- lighting interactions
+
+## Included resources
+
+- [Lens and framing guide](lens-and-framing.md)
+- [Motion and dolly technique notes](motion-and-dolly.md)

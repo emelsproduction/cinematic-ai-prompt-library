@@ -1,5 +1,25 @@
-# Character Consistency
+# Character consistency
 
-A home for techniques, references, and workflows for preserving character identity across images and video.
+This section is for prompt systems, reference sheets, workflows, and templates that maintain character identity across image and video generations.
 
-Document the reference assets and prompt or workflow choices that help maintain consistent appearance.
+## Goals
+
+- keep face, hairstyle, wardrobe, and silhouettes consistent
+- define reference details clearly
+- reduce drift over multiple generations
+- reuse a core identity with variations in lighting and camera
+
+## Recommended content
+
+- character summary
+- appearance anchors
+- wardrobe notes
+- signature props or accessories
+- facial structure notes
+- lighting and environment preferences
+- reference image links or screenshots
+
+## Included resources
+
+- [Character sheet template](character-sheet-template.md)
+- [Hero character workflow](consistent-hero-workflow.md)
